@@ -1,5 +1,5 @@
 import Quiz from "./quiz.js";
-import Question from "./question.js";
+import Question from "./questions.js";
 
 let quizOptionsForm = document.getElementById("quizOptions");
 let playerNameInput = document.getElementById("playerName");
